@@ -9,11 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+## Academic Background
+- **Bachelor's Degree in Physics:** Faculty of Sciences, UNAM.
+- **Computer Technician:** National Preparatory School, UNAM.
+
+---
+
+## Distinctions
+- Winner of the **First Place** in the State Knowledge Olympiad 2015.
+- **Honorable Mention** in the App Challenge 2017.
+- Second Place in the **Inter-Preparatory School Mathematics Contest, UNAM**.
+- **Honorable Mention** in the Metropolitan Physics Olympiad 2020 (CDMX).
+- **Honorable Mention** in the XIX UNAM Science Fair (documentary research).
+- Winner of the **XXV Preparatorian Science Congress** (documentary research).
+- First Place in the **Robotics Contest** at the Faculty of Sciences, UNAM (2022).
+
+---
+
+## Key Projects
+- **Youth Towards Research, UNAM:** Measuring the rotation speed of the Milky Way through radioastronomical observations.
+- **Web System Update:** General Coordination of Specialized Technical Studies, National Preparatory School, UNAM.
+- Development of introductory courses in data science with Python (MLSA-Microsoft).
+- Creation of a neural network for resolution enhancement in astronomical images (Faculty of Sciences, UNAM).
+- Organization and teaching of free preparatory courses for admission to the Faculty of Sciences.
+- Lead organizer of the World Space Week (Mexican Space Agency) at the Faculty of Sciences, UNAM (2023).
+- Organization of astronomical outreach events in public elementary schools (2023-2024).
+- Development of N-body and fluid dynamics simulations for galaxy collisions (Faculty of Sciences, UNAM).
+- Research on the early evolution of the universe using artificial intelligence techniques (Institute of Physical Sciences).
+
+---
+
+## Recognitions
+- Host at "Noche de las Estrellas" (2018, 2019, 2022, 2023).
+- Host at "Astronomical Garden" (2018, 2019).
+- Participation in World Space Week, Faculty of Sciences (2023).
+- Eclipse observation, Ciudad Universitaria (2023).
+- Science communication conference cycle at the Museum of Geology, UNAM.
+
+---
+
+## Skills
+- **Programming Languages:** Python, C++, PHP, R.
+- **Machine Learning:** Experience with libraries such as TensorFlow and PyTorch.
+- **Databases:** Proficient in SQL.
+- **Operating Systems:** Experienced in Linux, terminal, Git.
+- **Hardware:** Arduino, PC assembly, network setup.
+- **Languages:** English certification (B2 level).
+
+---
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor's Degree student in Physics:** Faculty of Sciences, UNAM.
+* Computer Technician: ** National Preparatory School, UNAM.
 
 Work experience
 ======
