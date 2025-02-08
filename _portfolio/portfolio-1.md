@@ -7,7 +7,7 @@ collection: portfolio
 # **Processing and Enhancement of Planetary Astrophotography Using Generative Adversarial Networks**
 
 ## **Repository**
-[GitHub](https://github.com/DiegoViillalba) 
+[GitHub](https://github.com/DiegoViillalba/SRGAN_Astrophotography) 
 
 ## **Authors**
 - Diego Antonio Villalba González
