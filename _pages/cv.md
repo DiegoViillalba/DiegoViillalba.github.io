@@ -9,73 +9,100 @@ redirect_from:
 
 {% include base_path %}
 
-## Academic Background
-- **Bachelor's Degree student in Physics:** Faculty of Sciences, UNAM.
-- **Computer Technician:** National Preparatory School, UNAM.
+
+## 🎓 Education
+
+### **Universidad Nacional Autónoma de México**  
+**Bachelor’s Degree in Physics** (Sep 2021 – Dec 2025)  
+- **GPA:** 3.7  
+- **Relevant Coursework:** Computational Physics, Machine Learning, Fluid Dynamics, Astrophysics  
+
+### **Universidad Nacional Autónoma de México**  
+**Computer Technician** (Aug 2019 – Aug 2021)  
+- **GPA:** 4.0  
+- **Relevant Coursework:** Software-Hardware Management, Databases, Programming, Networks  
 
 ---
 
-## Distinctions
-- Winner of the **First Place** in the State Knowledge Olympiad 2015.
-- **Honorable Mention** in the App Challenge 2017.
-- Second Place in the **Inter-Preparatory School Mathematics Contest, UNAM**.
-- **Honorable Mention** in the Metropolitan Physics Olympiad 2020 (CDMX).
-- **Honorable Mention** in the XIX UNAM Science Fair (documentary research).
-- Winner of the **XXV Preparatorian Science Congress** (documentary research).
-- First Place in the **Robotics Contest** at the Faculty of Sciences, UNAM (2022).
+## 💼 Experience
+
+### **Research Internship**  
+**Instituto de Ciencias Físicas, UNAM** (May 2024 – Present)  
+- Study of cosmological N-Body simulations structure  
+- Development of generative neural networks to improve resolution  
+- Development of quality quantification techniques  
+
+### **Microsoft Learn Student Ambassador**  
+**Microsoft** (May 2022 – Sep 2024)  
+- Developed and coordinated seminars and activities to teach programming skills (Python, R) to students  
+- Trained in machine learning and data analysis, leveraging Microsoft tools  
+- Promoted adoption of Microsoft technologies, such as Azure, for cloud computing projects  
+
+### **Seminar Coordinator**  
+**Facultad de Ciencias, UNAM** (Sep 2024 – Present)  
+- Coordination of Physics Student Seminars, collaborating with faculty and inviting renowned speakers  
+- Worked with the Seminar Faculty Division Coordinator to curate a list of speakers  
+
+### **Event Director**  
+**Nibiru Astronomic Society, UNAM** (Jan 2022 – Present)  
+- Organized science communication activities with a diverse academic team  
+- Increased public participation in science communication events by 50%  
+- Led multiple public astronomical observation events, engaging over 5,000 attendees  
+- Designed and conducted science outreach initiatives for vulnerable communities  
+
+### **Web Developer**  
+**Dirección General de Escuela Nacional Preparatoria, UNAM** (Aug 2020 – Aug 2021)  
+- Developed a web-based system to manage student information  
+- Designed and implemented an SQL database, including handwritten records transcription  
+- Improved administrative efficiency by transitioning processes to digital platforms  
 
 ---
 
-## Key Projects
-- **Youth Towards Research, UNAM:** Measuring the rotation speed of the Milky Way through radioastronomical observations.
-- **Web System Update:** General Coordination of Specialized Technical Studies, National Preparatory School, UNAM.
-- Development of introductory courses in data science with Python (MLSA-Microsoft).
-- Creation of a neural network for resolution enhancement in astronomical images (Faculty of Sciences, UNAM).
-- Organization and teaching of free preparatory courses for admission to the Faculty of Sciences.
-- Lead organizer of the World Space Week (Mexican Space Agency) at the Faculty of Sciences, UNAM (2023).
-- Organization of astronomical outreach events in public elementary schools (2023-2024).
-- Development of N-body and fluid dynamics simulations for galaxy collisions (Faculty of Sciences, UNAM).
-- Research on the early evolution of the universe using artificial intelligence techniques (Institute of Physical Sciences).
+## 🔬 Projects
+
+### **Super Resolution GAN - Astrophotography**  
+[GitHub Repo](https://github.com/DiegoViillalba/SRGAN_Astrophotography)  
+- Developed a Super Resolution GAN using astrophotography techniques to enhance planetary images  
+- **Tools Used:** Python, PyTorch  
+
+### **N-Body Python Simulations**  
+[GitHub Repo](https://github.com/DiegoViillalba/N-Body-Python-simulation)  
+- Developed N-Body simulations of galaxy dynamics using brute force and Barnes-Hut (quad tree technique)  
+- **Tools Used:** Python  
+
+### **Laplace Equation Solution for Custom 2D Distributions**  
+[GitHub Repo](https://github.com/DiegoViillalba/Proyectos_Electromagnetismo_UNAM)  
+- Built a Python script to numerically solve the Laplace equation for a custom charge distribution  
+- **Tools Used:** Python  
 
 ---
 
-## Recognitions
-- Host at "Noche de las Estrellas" (2018, 2019, 2022, 2023).
-- Host at "Astronomical Garden" (2018, 2019).
-- Participation in World Space Week, Faculty of Sciences (2023).
-- Eclipse observation, Ciudad Universitaria (2023).
-- Science communication conference cycle at the Museum of Geology, UNAM.
+## 🛠 Technologies
+
+- **Languages:** Python, C++, Fortran, SQL, JavaScript, PHP, R  
+- **Machine Learning Libraries:** PyTorch, TensorFlow, Keras  
+- **Tools & Platforms:** Linux, Terminal, Git, Arduino, PC Assembly, Network Setup  
 
 ---
 
-## Skills
-- **Programming Languages:** Python, C++, PHP, R.
-- **Machine Learning:** Experience with libraries such as TensorFlow and PyTorch.
-- **Databases:** Proficient in SQL.
-- **Operating Systems:** Experienced in Linux, terminal, Git.
-- **Hardware:** Arduino, PC assembly, network setup.
-- **Languages:** English certification (B2 level).
+## 🏆 Awards
+
+- **First Place**, National Children’s Knowledge Olympiad (Secretaría de Educación Pública, 2015)  
+- **Honorary Mention**, App Challenge (US Embassy, 2017)  
+- **Second Place**, Inter-High School Math Contest (Escuela Nacional Preparatoria, UNAM, 2019)  
+- **Honorary Mention**, Metropolitan Physics Olympiad (Universidad Autónoma Metropolitana, 2020)  
+- **Winner**, XXV Preparatory Science Congress (UNAM, 2020)  
+- **First Place**, Robotics Contest - Line Following (UNAM, Faculty of Sciences, 2021)  
+- **Microsoft Learn Student Ambassador**, Microsoft, 2021  
 
 ---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🎤 Presentations
+
+- **“Cosmology Team Research Group”**, Poster presented at the Student Seminar, Physical Sciences Institute, UNAM (2024)  
+
+---
+
+## 📜 Certifications
+
+- **B2 First – Score 179**, Cambridge University Press & Assessment English  
