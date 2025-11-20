@@ -21,10 +21,10 @@ repository               : "DiegoViillalba/DiegoViillalba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpeg"
+  avatar           : "foto_diego_villalba.png"
   name             : "Diego Villalba"
   pronouns         : # example: "she/her"  
-  bio              : "BSc. Physics student, AI, ML and Astrophysics/cosmology enthusiast, astrophotographer and science communicator"
+  bio              : "BSc. Physics student, ML and Astrophysics/Cosmology, astrophotographer and science communicator"
   location         : "Mexico City, Mexico"
   employer         : "Universidad Nacional Autónoma de México"
   uri              : # URL
