@@ -9,11 +9,11 @@ redirect_from:
 
 **Welcome! I’m Diego Villalba**, a BSc student in Physics at the [Universidad Nacional Autónoma de México](https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico), currently specializing in **cosmology, computational astrophysics, and machine learning**.
 
-I am particularly interested in the intersection of **large-scale structure formation**, **N-body cosmological simulations**, and **modern ML techniques**. My current focus is on exploring how differentiable models, neural implicit representations, and simulation-based inference can improve the analysis and reconstruction of cosmological fields.
+I am deeply interested in the intersection of **machine learning and cosmology**, particularly in how modern ML methods can enhance the analysis and reconstruction of cosmological simulations. Currently, during my research stay at the **Donostia International Physics Center (DIPC)**, I am expanding this line of work by studying how **differentiable models, neural implicit representations, and simulation-based inference** can be used to analyze, compress, and reconstruct cosmological fields with higher precision and physical fidelity.  At UNAM, I worked on **ML-based super-resolution of cosmological fields**, exploring techniques to upscale and recover high-resolution structure from coarse N-body data.
 
-In addition to cosmology, I work on **machine learning–based super-resolution**, both in:
-- **Cosmology** — super-resolving N-body simulations, displacement fields, and cosmological structures,  
+In addition to cosmology, I work on **machine learning–based solutions**, both in:
 - **Medical imaging** — as a side project focused on **MRI acceleration**, leveraging neural reconstruction techniques to reduce acquisition time while preserving diagnostic quality.
+- **Industry** — working on implementations of OCR methods applied to industry pipelines 
 
 Recently, I had the opportunity to work as a **research student at the Donostia International Physics Center (DIPC)** in San Sebastián, Spain, under the supervision of **Dr. Raúl Angulo** and **Dr. Carolina Cuesta-Lázaro**. There, I worked on projects involving **compressed representations of cosmological simulations**, displacement-field reconstruction, and ML-driven approaches to high-resolution structure formation. This experience strengthened my interest in computational cosmology and gave me hands-on exposure to cutting-edge research using **high-performance computing**, **PyTorch-based ML models**, and **next-generation simulation tools**.
 
