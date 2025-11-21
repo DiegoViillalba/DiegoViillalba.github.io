@@ -9,6 +9,8 @@ redirect_from:
 
 **Welcome! I’m Diego Villalba**, a BSc student in Physics at the [Universidad Nacional Autónoma de México](https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico), currently specializing in **cosmology, computational astrophysics, and machine learning**.
 
+<img src='/images/dm_sheet.jpg'>
+
 I am deeply interested in the intersection of **machine learning and cosmology**, particularly in how modern ML methods can enhance the analysis and reconstruction of cosmological simulations. Currently, during my research stay at the **Donostia International Physics Center (DIPC)**, I am expanding this line of work by studying how **differentiable models, neural implicit representations, and simulation-based inference** can be used to analyze, compress, and reconstruct cosmological fields with higher precision and physical fidelity.  At UNAM, I worked on **ML-based super-resolution of cosmological fields**, exploring techniques to upscale and recover high-resolution structure from coarse N-body data.
 
 In addition to cosmology, I work on **machine learning–based solutions**, both in:
