@@ -7,9 +7,8 @@ venue: "Congreso Internacional de Supercómputo UNAM 2025"
 date: 2025-09-03
 location: "Auditorio Sotero Prieto, Faculty of Engineering, UNAM (Mexico City)"
 ---
-### **Slides**
 
-- [Download slides (PDF)](/files/talks/2025-supercomputo-scattnetmr.pdf)
+[Download slides (PDF)](/files/talks/2025-supercomputo-scattnetmr.pdf)
 
 ### **Overview**
 
