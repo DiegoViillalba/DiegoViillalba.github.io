@@ -10,6 +10,9 @@ main:
 
   - title: "Presentations"
     url: /talks/    
+    
+  - title: "Resources"
+    url: /resources/
 
   - title: "Teaching"
     url: /teaching/    

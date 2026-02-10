@@ -1,0 +1,19 @@
+current directory: /Users/diegovillaba/Code/DiegoViillalba.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/diegovillaba/.rbenv/versions/3.2.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/diegovillaba/Code/DiegoViillalba.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260210-45378-8l0x88 sitelibdir\=./.gem.20260210-45378-8l0x88 clean
+
+current directory: /Users/diegovillaba/Code/DiegoViillalba.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260210-45378-8l0x88 sitelibdir\=./.gem.20260210-45378-8l0x88
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/diegovillaba/Code/DiegoViillalba.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260210-45378-8l0x88 sitelibdir\=./.gem.20260210-45378-8l0x88 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260210-45378-8l0x88/racc
+
+current directory: /Users/diegovillaba/Code/DiegoViillalba.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260210-45378-8l0x88 sitelibdir\=./.gem.20260210-45378-8l0x88 clean
