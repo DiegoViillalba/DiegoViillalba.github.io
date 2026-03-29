@@ -1,15 +1,15 @@
 ---
-title: "Computational Cosmology Projects"
-excerpt: "Computational physics and cosmology projects developed at UNAM, Social Service project *Cosmología Observacional a través del Cómputo Científico*"
+title: "Super Resolution on cosmology"
+excerpt: "Computational physics and cosmology super resolution research project developed at UNAM, Social Service project *Cosmología Observacional a través del Cómputo Científico*  <br/><img src='/images/cosmo_sr_icf.png'>"
 collection: portfolio
 ---
 
 ## Social Service Project  
 ### Cosmología Observacional a través del Cómputo Científico (UNAM)
 
-This section summarizes the academic work carried out during my **Social Service** at the **Instituto de Ciencias Físicas (ICF–UNAM)**, as documented in the official final report. The project focused on the study and application of modern computational and statistical tools for the analysis of physical and cosmological data.
+This section summarizes the academic work carried out during my Social Service at the [Instituto de Ciencias Físicas (ICF–UNAM)](https://www.icf.unam.mx/), as documented in the official final report.
 
-📄 **Full report (PDF):**  
+**Full report (PDF):**  
 [Informe final de Servicio Social – Notes and Results]( /files/Notas_Servicio_Social.pdf )
 
 ### Project Overview

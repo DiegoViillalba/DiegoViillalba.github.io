@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Diego Villalba's homepage"
+title                    : "Diego Villalba"
 title_separator          : "-"
 name                     : &name "Diego Villalba"
 description              : &description "BSc. Physics student, AI, ML and Astrophysics/cosmology enthusiast, astrophotographer and science communicator"
@@ -21,13 +21,13 @@ repository               : "DiegoViillalba/DiegoViillalba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto_diego_villalba.png"
+  avatar           : "perfil.jpeg"
   name             : "Diego Villalba"
   pronouns         : # example: "she/her"  
-  bio              : "BSc. Physics student, ML and Astrophysics/Cosmology, astrophotographer and science communicator"
+  bio: "Physicist and machine learning researcher bridging academia and industry, focused on data-driven modeling, scientific computing, large-scale cosmological simulations."
   location         : "Mexico City, Mexico"
-  employer         : "Universidad Nacional Autónoma de México"
-  uri              : # URL
+  employer         : "UNAM"
+  uri              : "https://web.fciencias.unam.mx/directorio/105501"
   email            : "diego.villalba@ciencias.unam.mx" 
 
   # Academic websites
@@ -224,6 +224,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -279,6 +282,13 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
       author_profile: true
       share: true
 
