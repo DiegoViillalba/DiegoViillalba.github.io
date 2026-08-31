@@ -12,7 +12,7 @@ title                    : "Diego Villalba"
 title_separator          : "-"
 name                     : &name "Diego Villalba"
 description              : &description "BSc. Physics student, AI, ML and Astrophysics/cosmology enthusiast, astrophotographer and science communicator"
-url                      : https://diegoviillalba.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "[https://diego-villalba.com](https://diego-villalba.com)"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DiegoViillalba/DiegoViillalba.github.io"
 
